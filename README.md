@@ -12,5 +12,5 @@ The model has been testing on serveral datasets including:
 - **Iris**
 - **Minsit** 
 - **Diabetes** (binary classifier)
-- **Flowers** (image dataset)   
+- **Flowers** (image dataset from https://www.kaggle.com/alxmamaev/flowers-recognition.)   
 
